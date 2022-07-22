@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    password: a3873
+    username: root
+    url: jdbc:mysql://localhost:3306/danceevents
+       
+    
